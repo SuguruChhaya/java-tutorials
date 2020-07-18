@@ -1,0 +1,8 @@
+Resources to learn java:
+
+1. Codingbat.com
+2. Learn Java by microsoft (https://www.edx.org/course/learn-to-program-in-java-2)
+3. Intro to java programming (https://www.edx.org/professional-certificate/uc3mx-introduction-java-programming)
+4. AP comp sci courses (https://www.edx.org/course/ap-computer-science-a-java-programming)
+5. Udacity: https://classroom.udacity.com/courses/ud282/lessons/8193672240/concepts/82496485910923
+
