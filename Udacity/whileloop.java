@@ -42,6 +42,8 @@ public class whileloop{
 
         }
         return count;
+    //I am making a program which counts how many times I have to roll to get same side for six dices.
+
         
     }
     //*I think I should try to make this code more concise and readable, probalbly by creating another function.
