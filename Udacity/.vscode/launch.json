@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-functions<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ifstatement<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "ifstatement",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-mathstuff<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "mathstuff",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-printing<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "printing",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-problemset1<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "problemset1",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-problemset2<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "problemset2",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-problemset3<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "problemset3",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-random<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-switchstatement<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "switchstatement",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-variables<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Udacity_7d53db37"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-whileloop<Udacity_7d53db37>",
+            "request": "launch",
+            "mainClass": "whileloop",
+            "projectName": "Udacity_7d53db37"
+        }
+    ]
+}
