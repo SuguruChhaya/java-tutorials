@@ -49,10 +49,9 @@ public class createarrays {
     }
     public String findLongestName(String [] names){
         int length_list = names.length;
-        int longest = names[0];
-        for (int i = 1; i < length_list; i++){
+        for (int i = 1; i < 3; i++){
             if (names[i].length() > longest.length()){
-                longest = names[i];
+                String longest = names[i];
             }
             
         }
